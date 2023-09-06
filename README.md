@@ -1,7 +1,7 @@
 # Wanderson Xavier de Carvalho
 Atualmente, exerço a função de Auxiliar de Logística e estou buscando uma transição de carreira para tecnologia.
 
-Estou dedicando meu tempo ao estudo de Análise e Desenvolvimento de Sistemas na Uninove e realizando o bootcamp FullStack com a parceria entre o Santander e DIO.
+Estou dedicando meu tempo ao estudo de Análise e Desenvolvimento de Sistemas na Uninove e realizando o bootcamp FullStack da parceria entre o Santander e DIO.
 
 ## Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/wandersonxcarvalho/)
